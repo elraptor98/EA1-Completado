@@ -1,0 +1,12 @@
+C:\Users\Luis Garcia\Desktop\EVALUACION1-completado\bin\Debug\EVALUACION1-completado.exe.config
+C:\Users\Luis Garcia\Desktop\EVALUACION1-completado\bin\Debug\EVALUACION1-completado.exe
+C:\Users\Luis Garcia\Desktop\EVALUACION1-completado\bin\Debug\EVALUACION1-completado.pdb
+C:\Users\Luis Garcia\Desktop\EVALUACION1-completado\obj\Debug\EVALUACION1-completado.csproj.AssemblyReference.cache
+C:\Users\Luis Garcia\Desktop\EVALUACION1-completado\obj\Debug\EVALUACION1-completado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis Garcia\Desktop\EVALUACION1-completado\obj\Debug\EVALUACION1_completado.Form1.resources
+C:\Users\Luis Garcia\Desktop\EVALUACION1-completado\obj\Debug\EVALUACION1_completado.Properties.Resources.resources
+C:\Users\Luis Garcia\Desktop\EVALUACION1-completado\obj\Debug\EVALUACION1-completado.csproj.GenerateResource.cache
+C:\Users\Luis Garcia\Desktop\EVALUACION1-completado\obj\Debug\EVALUACION1-completado.csproj.CoreCompileInputs.cache
+C:\Users\Luis Garcia\Desktop\EVALUACION1-completado\obj\Debug\EVALUACION1-completado.exe
+C:\Users\Luis Garcia\Desktop\EVALUACION1-completado\obj\Debug\EVALUACION1-completado.pdb
+C:\Users\Luis Garcia\Desktop\EVALUACION1-completado\obj\Debug\EVALUACION1_completado.frmIngresoDatos.resources
